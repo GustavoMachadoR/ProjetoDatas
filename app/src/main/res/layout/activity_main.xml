@@ -64,7 +64,7 @@
         android:layout_width="338dp"
         android:layout_height="52dp"
         android:layout_marginTop="12dp"
-        android:hint="4092020"
+        android:hint="04092020"
         android:inputType="number"
         android:maxLength="8"
         app:layout_constraintEnd_toEndOf="parent"
