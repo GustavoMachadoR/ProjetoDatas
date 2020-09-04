@@ -3,4 +3,6 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="corBacana">#C3E0F6</color>
+    <color name="corBotao">#489CDC</color>
 </resources>
